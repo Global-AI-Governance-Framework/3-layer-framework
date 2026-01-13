@@ -45,11 +45,12 @@ This framework is a starting point, not a definitive framing. As the AI field is
 ---
 
 ## 📝 How to Contribute
-We welcome contributions that enhance the robustness and accuracy of this framework.
+We welcome contributions that enhance the robustness and accuracy of this framework. 
+
+For detailed instructions on how to propose changes, please refer to our [**Contributing Guidelines**](CONTRIBUTING.md).
 
 * **Open an Issue:** To discuss potential changes or observations.
 * **Submit a Pull Request:** To propose direct edits to the framework documentation.
-
 ---
 
 ## 👥 Authors
