@@ -4,6 +4,10 @@ Welcome to the official repository for the **Three-Layer Framework for Global AI
 
 This project proposes a multi-layered framework to conceptualize and navigate the complex, fragmented landscape of global AI policy. Inspired by the classic 3-layer model of internet governance, we adapt this structure to address the unique challenges of the AI ecosystem.
 
+> **As seen on Lawfare** — This repository serves as the collaborative hub for the framework.
+
+![Global AI Governance Framework Diagram](framework-diagram.png)
+
 ---
 
 ## 📑 Overview
@@ -60,4 +64,4 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
 
 If you use this framework in your research, policy papers, or projects, please cite it as follows:
 
-> **Cedric, & Uziel, M. (2024). Understanding Global AI Governance Through a Three-Layer Framework. Retrieved from: [https://github.com/Global-AI-Governance-Framework/3-layer-framework]**
+> **Sabbah, C. Y., & Uziel, M. (2024). Understanding Global AI Governance Through a Three-Layer Framework. Retrieved from: https://github.com/Global-AI-Governance-Framework/3-layer-framework**
