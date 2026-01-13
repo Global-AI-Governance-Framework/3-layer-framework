@@ -52,3 +52,12 @@ We welcome contributions that enhance the robustness and accuracy of this framew
 * **Cedric Yehuda Sabbah**
 * **Moshe Uziel**
 
+---
+
+## 🎓 Citation & Licensing
+
+This work is licensed under a **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**. 
+
+If you use this framework in your research, policy papers, or projects, please cite it as follows:
+
+> **Cedric, & Uziel, M. (2024). Understanding Global AI Governance Through a Three-Layer Framework. Retrieved from: [https://github.com/Global-AI-Governance-Framework/3-layer-framework]**
